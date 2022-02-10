@@ -5,27 +5,27 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637799501296153417
-    m_Hash: 3495392058
+      ticks: 637800352001034002
+    m_Hash: 4179566897
   m_LockFileStatus:
     m_FilePath: D:/Repositorios/KAM/KAM/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637799501398520394
-    m_Hash: 894664828
+      ticks: 637800352087533381
+    m_Hash: 4197502262
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
-    - packageId: com.unity.collab-proxy@1.15.4
+    - packageId: com.unity.collab-proxy@1.15.7
       testable: 0
       isDirectDependency: 1
-      version: 1.15.4
+      version: 1.15.7
       source: 1
-      resolvedPath: D:\Repositorios\KAM\KAM\Library\PackageCache\com.unity.collab-proxy@1.15.4
+      resolvedPath: D:\Repositorios\KAM\KAM\Library\PackageCache\com.unity.collab-proxy@1.15.7
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -91,7 +91,6 @@ m_PackageAssets:
         - 2.1.0-preview.5
         - 2.1.0-preview.6
         compatible:
-        - 1.15.4
         - 1.15.7
         - 1.15.9
         - 1.15.12
@@ -144,13 +143,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637726568460000000
+      datePublishedTicks: 637744672890000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-        revision: 1275603954ad33bee601fe2c9a3c787b3d4e4c6b
+        revision: d208594e5483cdf10d303b6ee17df4d6bf58d3de
         path: 
     - packageId: com.unity.ide.rider@2.0.7
       testable: 0
@@ -390,6 +389,7 @@ m_PackageAssets:
         - 1.2.2
         - 1.2.3
         - 1.2.4
+        - 1.2.5
         compatible:
         - 1.0.2
         - 1.0.3
@@ -403,7 +403,8 @@ m_PackageAssets:
         - 1.2.2
         - 1.2.3
         - 1.2.4
-        verified: 1.2.4
+        - 1.2.5
+        verified: 1.2.5
       dependencies: []
       resolvedDependencies: []
       keywords: []
@@ -2863,4 +2864,4 @@ m_PackageAssets:
   m_LocalPackages:
     m_LocalFileStatus: []
 m_ProjectPath: D:/Repositorios/KAM/KAM/Packages
-m_EditorVersion: 2020.3.25f1 (9b9180224418)
+m_EditorVersion: 2020.3.27f1 (e759542391ea)
